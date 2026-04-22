@@ -6,3 +6,5 @@
 * salt
 * red chilly
 * turmeric
+## Math
+* Logic
