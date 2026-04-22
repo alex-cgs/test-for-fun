@@ -8,3 +8,5 @@
 * turmeric
 * juice
 * corriander
+## Math
+* Logic
